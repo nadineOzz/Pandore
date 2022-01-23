@@ -1,0 +1,29 @@
+#content {
+    background-color: whitesmoke;
+    min-height: 50vh;
+}
+
+header,
+#content,
+footer {
+    font-family: 'Urbanist', sans-serif;
+}
+
+.jumbotron {
+    background-image: url('../img/jumbotron.jpg');
+    background-size: cover;
+}
+
+thead,
+tbody {
+    color: #5582C8;
+}
+.wrapper {
+    text-align: center;
+}
+
+.a {
+    position: absolute;
+    top: 50%;
+    color: #15155e;
+}

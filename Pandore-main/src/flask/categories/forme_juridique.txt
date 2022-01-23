@@ -1,0 +1,262 @@
+Entrepreneur individuel
+SARL, société à responsabilité limitée
+SA à conseil d'administration (s.a.i.)
+SAS, société par actions simplifiée
+EURL, entreprise unipersonnelle à responsabilité limitée
+SASU, société par actions simplifiée unipersonnelle
+SERL, société d'exercice libéral à responsabilité limitée
+SCPI, société civile de placement collectif immobilier
+SCI, société civile immobilière
+Association déclarée
+Organisme de placement collectif en valeurs mobilières sans personnalité morale
+Indivision entre personnes physiques
+Indivision avec personne morale
+Société créée de fait entre personnes physiques
+Société créée de fait avec personne morale
+Société en participation entre personnes physiques
+Société en participation avec personne morale
+Société en participation de professions libérales
+Fiducie
+Paroisse hors zone concordataire
+Autre groupement de droit privé non doté de la personnalité morale
+Représentation ou agence commerciale d'état ou organisme public étranger immatriculé au RCS
+Société commerciale étrangère immatriculée au RCS
+Organisation internationale
+État, collectivité ou établissement public étranger
+Société étrangère non immatriculée au RCS
+Autre personne morale de droit étranger
+Établissement public national à caractère industriel ou commercial doté d'un comptable public
+Établissement public national à caractère industriel ou commercial non doté d'un comptable public
+Exploitant public
+Établissement public local à caractère industriel ou commercial
+Régie d'une collectivité locale à caractère industriel ou commercial
+Institution Banque de France
+Société de caution mutuelle
+Société coopérative de banque populaire
+Caisse de crédit maritime mutuel
+Caisse (fédérale) de crédit mutuel
+Association coopérative inscrite (droit local Alsace Moselle)
+Caisse d'épargne et de prévoyance à forme coopérative
+Société en nom collectif
+Société en nom collectif coopérative
+Société en commandite simple
+Société en commandite simple coopérative
+Société en commandite par actions
+Société en commandite par actions coopérative
+SLP, société en libre partenariat
+Société de Participations Financières de Profession Libérale Société en commandite par actions (SPFPL SCA)
+Société d'exercice libéral en commandite par actions
+SARL nationale
+SARL d'économie mixte
+SICOMI, SARL immobilière pour le commerce et l'industrie
+SARL immobilière de gestion
+SAFER, SARL d'aménagement foncier et d'équipement rural
+SMIA, SARL mixte d'intérêt agricole
+SICA, SARL d'intérêt collectif agricole
+SARL d'attribution
+SARL coopérative de construction
+SARL coopérative de consommation
+SARL coopérative artisanale
+SARL coopérative d'intérêt maritime
+SARL coopérative de transport
+SCOP, SARL coopérative ouvrière de production
+SARL union de sociétés coopératives
+Autre SARL coopérative
+Société de Participations Financières de Profession Libérale Société à responsabilité limitée (SPFPL SARL)
+SA à participation ouvrière à conseil d'administration
+SA nationale à conseil d'administration
+SA d'économie mixte à conseil d'administration
+Fonds à forme sociétale à conseil d'administration
+SA immobilière pour le commerce et l'industrie (SICOMI) à conseil d'administration
+SA immobilière d'investissement à conseil d'administration
+SA d'aménagement foncier et d'équipement rural (SAFER) à conseil d'administration
+Société anonyme mixte d'intérêt agricole (SMIA) à conseil d'administration
+SA d'intérêt collectif agricole (SICA) à conseil d'administration
+SA d'attribution à conseil d'administration
+SA coopérative de construction à conseil d'administration
+SA de HLM à conseil d'administration
+SA coopérative de production de HLM à conseil d'administration
+SA de crédit immobilier à conseil d'administration
+SA coopérative de consommation à conseil d'administration
+SA coopérative de commerçants-détaillants à conseil d'administration
+SA coopérative artisanale à conseil d'administration
+SA coopérative (d'intérêt) maritime à conseil d'administration
+SA coopérative de transport à conseil d'administration
+SA coopérative ouvrière de production (SCOP) à conseil d'administration
+SA union de sociétés coopératives à conseil d'administration
+Autre SA coopérative à conseil d'administration
+Société de Participations Financières de Profession Libérale Société anonyme à conseil d'administration (SPFPL SA à conseil d'administration)
+Société d'exercice libéral à forme anonyme à conseil d'administration
+SA à participation ouvrière à directoire
+SA nationale à directoire
+SA d'économie mixte à directoire
+Fonds à forme sociétale à directoire
+SA immobilière pour le commerce et l'industrie (SICOMI) à directoire
+SA immobilière d'investissement à directoire
+Safer anonyme à directoire
+SMIA, SA mixte d'intérêt agricole
+SICA, SA d'intérêt collectif agricole
+SA d'attribution à directoire
+SA coopérative de construction à directoire
+SA de HLM à directoire
+Société coopérative de production de HLM anonyme à directoire
+SA de crédit immobilier à directoire
+SA coopérative de consommation à directoire
+SA coopérative de commerçants-détaillants à directoire
+SA coopérative artisanale à directoire
+SA coopérative d'intérêt maritime à directoire
+SA coopérative de transport à directoire
+SA coopérative ouvrière de production (SCOP) à directoire
+SA union de sociétés coopératives à directoire
+Autre SA coopérative à directoire
+Société de Participations Financières de Profession Libérale Société anonyme à Directoire (SPFPL SA à directoire)
+Société d'exercice libéral à forme anonyme à directoire
+SA à directoire (s.a.i.)
+Société de Participations Financières de Profession Libérale Société par actions simplifiée (SPFPL SAS)
+Société d'exercice libéral par action simplifiée
+Société européenne
+Caisse d'Épargne et de Prévoyance
+GEIE, groupement européen d'intérêt économique
+GIE, groupement d'intérêt économique
+CUMA, coopérative d'utilisation de matériel agricole en commun
+Société coopérative agricole
+Union de sociétés coopératives agricoles
+Société d'assurance à forme mutuelle
+Sociétés Interprofessionnelles de Soins Ambulatoires
+SICA, société civile d'intérêt collectif agricole
+GAEC, groupement agricole d'exploitation en commun
+Groupement foncier agricole
+Groupement agricole foncier
+Groupement forestier
+Groupement pastoral
+Groupement foncier et rural
+Société civile foncière
+Société civile immobilière de construction-vente
+Société civile d'attribution
+Société civile coopérative de construction
+Société civile immobilière d' accession progressive à la propriété
+Société civile coopérative de consommation
+Société civile coopérative d'intérêt maritime
+Société civile coopérative entre médecins
+Autre société civile coopérative
+SCP d'avocats
+SCP d'avocats aux conseils
+SCP d'avoués d'appel
+SCP d'huissiers
+SCP de notaires
+SCP de commissaires-priseurs
+SCP de greffiers de tribunal de commerce
+SCP de conseils juridiques
+SCP de commissaires aux comptes
+SCP de médecins
+SCP de dentistes
+SCP d'infirmiers
+SCP de masseurs-kinésithérapeutes
+SCP de directeurs de laboratoire d'analyse médicale
+SCP de vétérinaires
+SCP de géomètres experts
+SCP d'architectes
+Autre société civile professionnelle
+Société civile de moyens
+Caisse locale de crédit mutuel
+Caisse de crédit agricole mutuel
+Société civile d'exploitation agricole
+Exploitation agricole à responsabilité limitée
+Autre société civile
+Autre personne de droit privé inscrite au registre du commerce et des sociétés
+Autorité constitutionnelle
+Autorité administrative ou publique indépendante
+Ministère
+Service central d'un ministère
+Service du ministère de la Défense
+Service déconcentré à compétence nationale d'un ministère (hors Défense)
+Service déconcentré de l'État à compétence (inter) régionale
+Service déconcentré de l'État à compétence (inter) départementale
+Autre service déconcentré de l'État à compétence territoriale
+Ecole nationale non dotée de la personnalité morale
+Commune et commune nouvelle
+Département
+Collectivité et territoire d'Outre Mer
+Autre collectivité territoriale
+Région
+Commune associée et commune déléguée
+Section de commune
+Ensemble urbain
+Association syndicale autorisée
+Association foncière urbaine
+Association foncière de remembrement
+Établissement public local d'enseignement
+Pôle métropolitain
+Secteur de commune
+District urbain
+Communauté urbaine
+Métropole
+SIVOM, syndicat intercommunal à vocation multiple
+Communauté de communes
+Communauté de villes
+Communauté d'agglomération
+Autre établissement public local de coopération non spécialisé ou entente
+Institution interdépartementale ou entente
+Institution interrégionale ou entente
+SIVU, syndicat intercommunal à vocation unique
+Syndicat mixte fermé
+Syndicat mixte ouvert
+Commission syndicale pour la gestion des biens indivis des communes
+PETR, pôle d'équilibre territorial et rural
+Centre communal d'action sociale
+Caisse des écoles
+Caisse de crédit municipal
+Établissement d'hospitalisation
+Syndicat inter hospitalier
+Établissement public local social et médico-social
+CIAS, centre Intercommunal d'action sociale
+OPHLM, office public d'habitation à loyer modéré
+SDIS, service départemental d'incendie et de secours
+Établissement public local culturel
+Régie d'une collectivité locale à caractère administratif
+Autre établissement public administratif local
+Organisme consulaire
+Établissement public national ayant fonction d'administration centrale
+Établissement public national à caractère scientifique culturel et professionnel
+Autre établissement public national d'enseignement
+Autre établissement public national administratif à compétence territoriale limitée
+Établissement public national à caractère administratif
+GIP, groupement d'intérêt public
+Établissement public des cultes d'Alsace-Lorraine
+Etablissement public administratif, cercle et foyer dans les armées
+Groupement de coopération sanitaire à gestion publique
+Autre personne morale de droit administratif
+Régime général de la Sécurité Sociale
+Régime spécial de Sécurité Sociale
+Institution de retraite complémentaire
+Mutualité sociale agricole
+Régime maladie des non-salariés non agricoles
+Régime vieillesse ne dépendant pas du régime général de la Sécurité Sociale
+Régime d'assurance chômage
+Autre régime de prévoyance sociale
+Mutuelle
+Assurance mutuelle agricole
+Autre organisme mutualiste
+Comité social économique d’entreprise
+Comité social économique d'établissement
+Syndicat de salariés
+Syndicat patronal
+Ordre professionnel ou assimilé
+Centre technique industriel ou comité professionnel du développement économique
+Autre organisme professionnel
+Institution de prévoyance
+Institution de retraite supplémentaire
+Syndicat de copropriété
+Association syndicale libre
+Association non déclarée
+Association déclarée d'insertion par l'économique
+Association intermédiaire
+Groupement d'employeurs
+Association d'avocats à responsabilité professionnelle individuelle
+Association déclarée, reconnue d'utilité publique
+Congrégation
+Association de droit local (Bas-Rhin, Haut-Rhin et Moselle)
+Fondation
+Autre personne morale de droit privé
+Groupement de coopération sanitaire à gestion privée
+Société civile laitière

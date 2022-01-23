@@ -1,0 +1,13 @@
+0 salarié
+Entre 1 et 2 salariés
+Entre 3 et 5 salariés
+Entre 6 et 9 salariés
+Entre 10 et 19 salariés
+Entre 20 et 49 salariés
+Entre 50 et 99 salariés
+Entre 250 et 499 salariés
+Entre 500 et 999 salariés
+Entre 1 000 et 1 999 salariés
+Entre 2 000 et 4 999 salariés
+Entre 5 000 et 9 999 salariés
+Plus de 10 000 salariés

@@ -1,0 +1,12 @@
+.list_companies {
+    border: solid 2px;
+}
+
+.list_companies:hover {
+    cursor: pointer;
+    box-shadow: 3px 3px 10px gray;
+}
+
+.list_av_companies {
+    border: solid 2px;
+}
